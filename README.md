@@ -46,35 +46,6 @@ Testing
 
 ---
 
-Project Structure
-
-.
-├── accounts/
-│   ├── api/
-│   ├── migrations/
-│   ├── models.py
-│   ├── tasks.py
-│   └── urls.py
-│
-├── blog/
-│   ├── api/
-│   ├── migrations/
-│   ├── models.py
-│   └── urls.py
-│
-├── config/
-│   ├── settings.py
-│   ├── celery.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-└── manage.py
-
----
-
 Installation
 
 Clone Repository
