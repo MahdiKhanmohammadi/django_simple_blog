@@ -1,0 +1,7 @@
+.git 
+.venv
+.gitignore
+.gitattributes
+LICENSE
+README.md
+db.sqlite3
