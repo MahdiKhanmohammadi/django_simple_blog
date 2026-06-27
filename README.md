@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-Passing-success)
+
 Django Simple Blog API
 
 A RESTful Blog API built with Django and Django REST Framework featuring user authentication, post management, filtering, pagination, background task processing with Celery, and interactive API documentation.
